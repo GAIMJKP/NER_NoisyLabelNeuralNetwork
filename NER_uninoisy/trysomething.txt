@@ -1,0 +1,17 @@
+n bilstm-aux-master/src/bilty.py --train NER_uninoisy/trysomething.txt --test test.txt --output predictions --pred_layer 1 --save Models/noisy005_eng.train
+
+" Netrw Directory Listing                                        (netrw v140)
+"   /Users/esthervandenberg/MA/UdS/Thesis/NoisyLabelNeuralNetwork/data
+"   Sorted by      name reversed
+"   Sort sequence: [\/]$,\<core\%(\.\d\+\)\=\>,\.h$,\.c$,\.cpp$,*,\.o$,\.obj$,\.info$,\.swp$,\.bak$,\~$
+"   Quick Help: <F1>:help  -:go up dir  D:delete  R:rename  s:sort-by  x:exec
+" ============================================================================
+.swp
+eng.train
+eng.testa
+data_format
+convert_NER.py
+Reuters_data.npy
+NER_data.npy
+MNIST_data.npy
+../
